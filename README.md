@@ -4,6 +4,8 @@ This is a simple app I made using AngularJS + real time API from [apilayer.net].
 
 ### Demo
 
+![alt text](http://zulhilmizainudin.s3.amazonaws.com/angular-currency-converter/demo.gif "Demo")
+
 [Click here to see demo]
 
 ### How to Get The API KEY?
